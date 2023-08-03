@@ -1,0 +1,10 @@
+name: TotemsPlugin
+version: '${project.version}'
+main: me.terramain.totems.Main
+api-version: 1.19
+authors: [TerraMain]
+description: New totems!
+
+commands:
+  givetotem:
+   description: выдача тотемов
